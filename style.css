@@ -20,6 +20,6 @@ header a {
   padding: 10px;
 }
 
-figcaption#featured-property {
+figure figcaption {
   text-align: center;
 }

@@ -30,3 +30,7 @@ figure figcaption {
   margin: 0 auto;
   padding: 5px;
 }
+
+#details {
+  display: block;
+}
